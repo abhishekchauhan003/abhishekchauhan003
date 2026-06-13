@@ -1,4 +1,13 @@
-                       I'm Abhishek Chauhan
+<h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
+
+<h3 align="center">
+🚀 Aspiring Software Development Engineer (SDE) | AI & ML Student | Full Stack Developer | Generative AI Enthusiast
+</h3>
+
+<p align="center">
+Passionate about building scalable web applications, solving complex problems with Data Structures & Algorithms, and creating innovative AI-powered solutions.
+</p>
+
 
 <h3 align="center">🚀 Aspiring Software Development Engineer | AI & ML Student | Generative AI Enthusiast</h3>
 

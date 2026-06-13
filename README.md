@@ -136,9 +136,20 @@ Spring Boot + PostgreSQL based hostel management solution with authentication an
 ✅ MongoDB Certified Developer
 
 ---
+## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 
-## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekchauhan003&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekchauhan003&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekchauhan003&theme=tokyonight" />
+</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Abhishek_chauhan&theme=tokyonight" />

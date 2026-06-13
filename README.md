@@ -96,6 +96,7 @@ Spring Boot + PostgreSQL based hostel management solution with authentication an
 
 ---
 
+
 ## 🔥 GitHub Streak
 
 <p align="center">
